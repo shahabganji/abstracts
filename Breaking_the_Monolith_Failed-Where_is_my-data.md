@@ -11,7 +11,5 @@ Being able to liberate the data in legacy applications and integrate them into t
 changing the code base and how the components of system are organized; having a modern and flexible data model serving
 the new requirements of the system requires to know how we could untangle our new design from the old model.
 
-We will examine different patterns that can be leveraged to liberate data in your system and make them
-flow in the veins of it. We will examine the advantages and disadvantages of each approach, talk about tools we could
-employ to achieve this goal. By the end of this session, we will be better equipped to make informed decisions about how
-to migrate and synchronize data in our software applications.
+Throughout this session, we will examine different patterns that can be leveraged to liberate data in your system and allow it to flow seamlessly. We will examine the advantages and disadvantages of each approach and discuss tools we could employ to achieve this goal. By the end of this session, you will be better equipped to make informed decisions about how
+to migrate and synchronize data in your software applications.
