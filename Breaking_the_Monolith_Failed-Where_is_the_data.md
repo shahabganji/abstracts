@@ -1,4 +1,4 @@
-## Breaking the Monolith Failed! Where is my data?
+## Breaking the Monolith Failed! Where is the data?
 
 Applications start to become legacy at the point that their data model is not evolving anymore! Even though there are
 countless books and articles describing how to manage and refactor the code base using patterns like Strangler Fig and
