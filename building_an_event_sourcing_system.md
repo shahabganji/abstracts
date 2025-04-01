@@ -40,7 +40,8 @@ challenges. We’ll explore the foundational building blocks—commands, event s
 Event Sourcing both powerful and approachable.
 
 Finally, I’ll share real-world insights from implementing Event Sourcing using Azure Cosmos DB, showcasing how this
-approach can bring scalability and reliability to modern distributed applications. ~~Whether you’re new to Event Sourcing
+approach can bring scalability and reliability to modern distributed applications. ~~Whether you’re new to Event
+Sourcing
 or looking to deepen your understanding, this session will equip you with the knowledge to start building event-driven
 systems with confidence.~~
 
@@ -65,16 +66,18 @@ talk will give you the tools and knowledge to get started with confidence.
 
 # Techorama
 
-~~The Power of the Past: Unlocking Business Insights with Event Sourcing, From State to Events: Rethinking Data Storage in .NET, Event Sourcing Demystified: Practical Patterns for Real-World Systems~~
+~~The Power of the Past: Unlocking Business Insights with Event Sourcing, From State to Events: Rethinking Data Storage
+in .NET, Event Sourcing Demystified: Practical Patterns for Real-World Systems~~
 
-### Understanding Event Sourcing: When, What and How to Use It
+### Understanding Event Sourcing: What, When and How to Use It
 
 In a world where businesses demand real-time insights and traceability, traditional data storage falls short. By storing
 only the latest state, we lose valuable insights about past decisions. Event Sourcing offers a paradigm shift by
 treating every state change as an immutable event, preserving business history and enabling new possibilities like
 auditing, debugging, and machine learning insights.
 
-In this session, we’ll break down Event Sourcing into its fundamental concepts—commands, events, event store, read models, and
+In this session, we’ll break down Event Sourcing into its fundamental concepts—commands, events, event store, read
+models, and
 projectors—helping you understand how and when to apply it effectively. You’ll also see a real-world implementation
 using Azure Cosmos DB, demonstrating how to build scalable event-sourced applications in .NET.
 
@@ -102,3 +105,22 @@ projectors, and we’ll discuss real-world examples, including an implementation
 
 By the end of this session, you’ll have a clear understanding of when to use Event Sourcing, and the trade-offs to
 consider.
+
+
+---
+
+Living at the moment is great… until the moment throws a production error and your logs say: ¯\_(ツ)_/¯
+
+Traditional systems forget the past. Event Sourcing doesn’t. It captures every change like a journal, making debugging,
+audits, and insights way easier—and sometimes even fun. And it doesn’t just give you those benefits—it brings context to
+your moment, something that matters not just in software, but in life too.
+
+That’s exactly what I’ll be exploring in my talk at CodeCrafts Conference 2025 in Vienna: “Demystifying Event Sourcing:
+A Practical Approach.”
+
+🧩 We’ll walk through the core concepts—commands, events, read models, projectors, event store—and see how they come
+together in a real-world application. And yes, there will be live coding, because there’s nothing like seeing it all
+unfold in action.
+
+🧠 If you’ve ever been curious about Event Sourcing but found it a bit intimidating, this session is for you. It’s all
+about clarity, practical insights, and maybe a few dad jokes along the way. 😄
