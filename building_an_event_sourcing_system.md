@@ -109,18 +109,20 @@ consider.
 
 ---
 
-Living at the moment is great… until the moment throws a production error and your logs say: ¯\_(ツ)_/¯
+# <Code/Crafts>
+
+### Demystifying Event Sourcing: A practical approach
+### Create a Tic Tac Toe game and learn about Event Sourcing
+
+Living at the moment is great... until the moment throws a production error and your logs say: ¯\_(ツ)_/¯
 
 Traditional systems forget the past. Event Sourcing doesn’t. It captures every change like a journal, making debugging,
-audits, and insights way easier—and sometimes even fun. And it doesn’t just give you those benefits—it brings context to
+audits, and insights way easier, and sometimes even fun. And it doesn’t just give you those benefits, it brings context to
 your moment, something that matters not just in software, but in life too.
 
-That’s exactly what I’ll be exploring in my talk at CodeCrafts Conference 2025 in Vienna: “Demystifying Event Sourcing:
-A Practical Approach.”
-
-🧩 We’ll walk through the core concepts—commands, events, read models, projectors, event store—and see how they come
+We’ll walk through the core concepts—commands, events, read models, projectors, event store, and see how they come
 together in a real-world application. And yes, there will be live coding, because there’s nothing like seeing it all
 unfold in action.
 
-🧠 If you’ve ever been curious about Event Sourcing but found it a bit intimidating, this session is for you. It’s all
-about clarity, practical insights, and maybe a few dad jokes along the way. 😄
+If you’ve ever been curious about Event Sourcing but found it a bit intimidating, this session is for you. It’s all
+about clarity, practical insights, and maybe a few dad jokes along the way.
