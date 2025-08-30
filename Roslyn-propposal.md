@@ -1,4 +1,4 @@
-# Compiler could write code, let it be your friend!
+# Roslyn Compiler APIs: Empowering Developers with Source Generators and Diagnostic Analyzers
 
 Have you ever spent so much time writing boilerplate code? Or debugged code and wished there was a hint from the
 compiler? Well, .NET Source generators and Diagnostic Analyzers are here to help you out! In this session, we will

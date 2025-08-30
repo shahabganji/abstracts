@@ -1,7 +1,7 @@
 ## Building your own Event Sourcing System With Azure Cosmos DB
 
-Event sourcing and Event-Driven Architectures are great ways to scale your system bringing scalability, elasticity,
-and resilience within today's software systems. Azure Cosmos DB is a globally distributed, multi-model and scalable
+Event sourcing and Event-Driven Architectures are great ways to scale your system, bringing scalability, elasticity,
+and resilience within today's software systems. Azure Cosmos DB is a globally distributed, multi-model, and scalable
 database.
 
 In this session, we will learn and examine the intrinsic details of Event Sourcing and how we could leverage Azure
@@ -16,7 +16,7 @@ Event sourcing enables us to record facts and travel in time to see what has hap
 
 If you are wondering what it is or considering it as a complicated pattern to apply in practice, in this session I will
 break it down in simple terms. Describing what is event sourcing, showing why to use it and what are the benefits. I
-will describe the pillars of event sourcing, like commands, read models, projectors and the practical patterns you need
+will describe the pillars of event sourcing, like commands, read models, projectors, and the practical patterns you need
 to know.
 
 We will even go an extra mile, and I will show you how I used Azure Cosmos DB to implement an event-sourced system.
@@ -112,17 +112,46 @@ consider.
 # <Code/Crafts>
 
 ### Demystifying Event Sourcing: A practical approach
+
 ### Create a Tic Tac Toe game and learn about Event Sourcing
+
+Wondering how Event Sourcing works? Want to learn how to implement it in your own projects?
 
 Living at the moment is great... until the moment throws a production error and your logs say: ¯\_(ツ)_/¯
 
 Traditional systems forget the past. Event Sourcing doesn’t. It captures every change like a journal, making debugging,
-audits, and insights way easier, and sometimes even fun. And it doesn’t just give you those benefits, it brings context to
+audits, and insights way easier, and sometimes even fun. And it doesn’t just give you those benefits, it brings context
+to
 your moment, something that matters not just in software, but in life too.
 
 We’ll walk through the core concepts—commands, events, read models, projectors, event store, and see how they come
-together in a real-world application. And yes, there will be live coding, because there’s nothing like seeing it all
-unfold in action.
+together in a real-world application using Azure Cosmos DB. And yes, there will be live coding, because there’s nothing
+like seeing it all unfold in action.
 
 If you’ve ever been curious about Event Sourcing but found it a bit intimidating, this session is for you. It’s all
 about clarity, practical insights, and maybe a few dad jokes along the way.
+
+
+---
+
+# Logs Don’t Have to Shrug: A Practical Guide to Event Sourcing
+
+
+Living at the moment is great—until production throws an error and your logs shrug back: ¯\_(ツ)_/¯
+
+Traditional systems forget the past. Event Sourcing doesn’t. It records every change like a journal, making debugging,
+audits, and insights much easier—and sometimes even fun. But beyond the benefits, it also comes with real trade-offs
+every developer should know before adopting it.
+
+In this session, we’ll explore the core building blocks of event-sourced systems—commands, events, read models,
+projectors (reactors), and the event store—and see how they fit together in practice. We’ll unfold practical patterns by
+applying them to a live-coded Tic-Tac-Toe game, step by step.
+
+What you’ll learn
+• Develop a clear mental model of Event Sourcing and recognize when (not) to use it
+• Apply practical patterns immediately in your own systems
+• Understand both the superpowers and the pitfalls of event-sourced architectures
+
+Anyone (backend developers, cloud developers, architects) who is curious about event-driven systems and wants to move
+beyond the theory into real-world applications. No prior Event Sourcing experience required—just curiosity and maybe a
+sense of humor.
